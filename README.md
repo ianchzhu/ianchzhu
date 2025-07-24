@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ianchzhu
-- 👀 I’m interested in ...CODING AND HACKING
-- 🌱 I’m currently learning ... CODING AND HACKING
-- 💞️ I’m looking to collaborate on ...CODING AND HACKING
-- 📫 How to reach me ...ian.chzhu.space.code@tuta.io
+- 👀 I’m interested in ...CODING 
+- 🌱 I’m currently learning ... PYTHON & HTML
+- 💞️ I’m looking to collaborate on ... PYTHON
+- 📫 How to reach me ... vfd9654@yeah.net
 
 <!---
 ianchzhu/ianchzhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
